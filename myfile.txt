@@ -1,0 +1,350 @@
+
+The following Specification is found on page 1 of the document. 
+
+Section 01 33 00     Submittal Procedures 
+1.03 SUBMITTALS FOR INFORMATION  
+  A. When the following are specified in individual sections, submit them for  information to 
+  ARC Architectural Group.  The information shall be kept securely for transfer to RUSD  at 
+  the appropriate time, or at the completion of the Project.   
+  1.    Design data.          
+  2.    Certificates.         
+  3.    Test reports.         
+  4.    Ready mix concrete batch tickets       
+  5.    Inspection repor ts.        
+  6.    Manufacturer's instructions.        
+  7.    Manufacturer's field reports.       
+  8.    Other types included.  
+The following Specification is found on page 2 of the document. 
+Check Dwgs1.05 SUBMITTAL PROCEDURE  
+ A. It is expected that the General Contractor shall thoroughly review each   
+  submittal from the Sub- Contractors and t he Material Suppliers for compliance with 
+  the Specifications and format requirement s prior to forwarding to the Architect  
+  for review. 
+ 
+ B. Transmit each submittal with a transmittal letter.  
+ 
+ C. Sequentially number the transmittal form.  Revise submittals with original number  
+  and a sequential alphabetic suffix.  
+ 
+ D. Identify:  Proj ect, Subcontractor or supplier, pertinent drawing and detail number, 
+  and specification section number, as appropriate on each copy.  
+ 
+A. Apply stamp, signed or initialed, certifying that review, approval, verification of  
+products required, field dimensions, adjacent construction Work, and   
+coordination of information is in accordance with the requirements of the Work  
+and Contract Documents.  
+ 
+B. Electronic Submittals are acceptable.  If the Architect deems additional infor mation or 
+representations are required, the General Contract shall comply and provide 
+additional supplementary printed submittals.  
+ 
+ G. NOTE:   The above stated Submittal Procedures shall be the standard for the Project  
+  Architect’s review of submittals by  the contractors.  
+  H. Schedule submittals to expedite the Project, and coordinate submission of  
+  related items.   If an immediate review and response is needed to maintain  
+  project schedule, so state in  the transmittal letter.  
+  I. For each submittal  for review, allow 10 days excluding delivery time to and from.  
+  J. Identify variations from Contract Documents and Product or system limitations,  
+  which  may be detrimental to successful performance of the completed Work.  
+  K. Provide space for review stamp by the Project Architect or the Consulting Engineers.  
+  L. If required, when revised for resubmission, identify all changes made since   
+  previous submission.  
+ 
+The following Specification is found on page 5 of the document. 
+Section 01 77 00     Project Closeout Procedures  
+ 
+ 
+
+1.03 SUBMITTALS 
+ 
+A. Project Record Documents:  Submit documents to ARC Architectural Group 
+with claim for final Applica tion for Payment. 
+ 
+B. Operations and Maintenance  Data: 
+ 
+1. Submit two copies of preliminary draft or proposed formats and outlines of 
+contents before start of Work, to ARC Archit ectural Group.  The Architect shall 
+review draft and return one copy with comme nts. 
+2. Submit one copy of completed documents 15 days prior to final inspection. 
+This copy will be reviewed and returned after final inspection with the 
+Architect's comme nts. 
+3. Submit two sets of revised final documents in final form within 10 days after 
+final inspection. 
+ 
+C. Warrant ies and Bonds: 
+ 
+1. For equipme nt or component parts of equipme nt put into servic e during 
+construction with the Owner’s permission, submit documents within ten 
+days after acceptance.  
+2. Make other submittals within ten days after Date of substantial Completion, 
+prior to final Applica tion for Payment. 
+3. Work items for which acceptance  is delayed beyond Date of Substantial 
+Completion, submit within ten days after acce ptance listing the date of 
+acce ptance as the beginning of the warranty period. 
+ 
+ 
+ 
+
+The following Specification is found on page 7 of the document. 
+Check Dwgs
+1.07 APPROVALS AND SUBMITTALS  
+ 
+ A. Obtain Architect's approval before cutting, drilling, sawing or coring through concrete,  
+  masonry or steel or otherwise disturbing any work affecting structural safety to new or  
+  existing construction.  
+  B. Report any discrepancies to Architect in writing before proceeding with affected work.  
+ 
+ C. Obtain all necessary permits and approvals before use of torches.  
+ 
+ D. Obtain consent of other Co ntractors and Subcontractors before disturbing or interfering 
+  with their work.  
+  
+
+The following Specification is found on page 9 of the document. 
+Section 08 36 16     VERHEAD SECTIONAL DOORS  
+
+1.4  SUBMITTALS 
+A. Submit under provisions of Section 01 33 00.  
+B. Product Data: Manufacturer's data sheets on each product to be used, including:  
+1. Preparation instructions and recommendations.  
+2. Storage and handling requirements and recommendations.  
+3. Installation methods.  
+C. Shop Drawings:  
+1. Provide drawings indicating track details, head and jamb conditions, spring shafts, 
+anchorage, accessories, finish colors, patterns and textures, operator mounts and other 
+related information.  
+2. Regulatory Requirements and Approvals: Provide shop drawings in compliance with local Authority having Jurisdiction (AHJ).  
+D. Certifications:  
+1. Submit manufacturer's certificate that products meet or exceed specified requirements.  
+2. Submit installer qualifications.  
+E. Selection Samples: For each finish product specified, two complete sets of color chips representing manufacturer's full range of avai lable colors and patterns.  
+F. Verification Samples: For each finish product specified, two samples, minimum size 6 inches 
+(150 mm) square, representing actual product, color, and patterns.  
+
+The following Specification is found on page 10 of the document. 
+Section 08 71 00     DOOR HARDWARE  
+ 
+
+1.03 SUBMITTALS for review and approval by the Architect, prior to placi ng an order for the wood 
+doors, submit: 
+ 
+A. Manufacturer's product data sheets and catalog cut sheets. 
+ 
+B. Shop Drawings, indicate hardware item, location, mounting height on the door, and 
+written job-specific manufacturers’ warranties. 
+ 
+C. See Section 01 33 00 - Submittal Procedures. 
+ 
+D. Warrant y: Submit manufacturer's warrant y and ensure that all necessary forms have 
+been completed and registered  with manufacturer. 
+
+The following Specification is found on page 11 of the document. 
+Section     09 91 13     EXTERIOR  PAINTING 
+ 
+
+1.12 SUBMITTALS 
+  
+ A. See Section 01 31 00 -  Administrative Requirements, for submittal procedures.  
+  B. Product Data: Provide data on all finishing products.  
+  C. Samples: Submit two paper chip samples, in size illustrating range of colors and  
+  textures available for each surface finishing product scheduled.  
+ 
+ D. Manufacturer's Instructions: Indicate special surfa ce preparation procedures.  
+
+The following Specification is found on page 12 of the document. 
+Check Dwgs1.04 SUBMITTALS 
+  
+ A. See Section 01 31 00 -  Administrative Requirements, for submittal procedures.  
+ 
+ B. Product Data: Provide data on all finishing products.  
+  C. Samples: Submit two paper chip samples, in size illustrating range of colors and  
+  textures available for each s urface finishing product scheduled.  
+ 
+ D. Manufacturer's Instructions: Indicate special surface preparation procedures.  
+  E. Maintenance Data: Submit data on cleaning, touch up, and repair of painted and 
+  coated surfaces.  
+
+The following Specification is found on page 13 of the document. 
+Check Dwgs
+1.6 SUBMITTALS  
+A. Submit under provisions of Section 01 33 00.  
+ 
+B. Product Data: Manufacturer's data sheets on each product to be used, including:  
+1. Preparation instructions and recommendations.  
+2. Storage and handling requirements and recommendations.  
+3. Installation methods.  
+ 
+C. Shop Drawings: Provide complete erection drawings for the proper identification and assembly of al l 
+building components. Drawings will show anchor bolt settings, transverse cross -sections, sidewall, 
+end wall  and roof framing, flashing and sheeting, and accessory installation details.  
+ 
+D. Selection Samples: For each finish product specified, two complete s ets of color chips representing 
+manufacturer's full range of available colors and patterns.  
+ 
+E. Verification Samples: For each finish product specified, two samples, representing actual product, 
+color, and patterns.  
+
+The following Specification is found on page 14 of the document. 
+
+SECTION 22 05 00          COMMON WORK RESULTS FOR PLUMBING
+1.03  SUBMITTALS  
+ A. Product Data:  For the following:         
+  1. Mechanical sleeve seals.         
+  2. Welding certificates. 
+The following Specification is found on page 15 of the document. 
+SECTION      22 05 23     GENERAL-DUTY VALVES FOR PLUMBING PIPING  
+
+1.03  ACTION SUBMITTALS  
+ A. Product Data:  For  each type of valve indicated. 
+The following Specification is found on page 16 of the document. 
+SECTION     22 11 10     FACILITY NATURAL GAS PIPING
+1.04  ACTION SUBMITTALS  
+ A. Product Data:  For each type of the following:        
+  1. Valves.  Include pressure rating, capacity, settings, and electrical connection data of selected  
+       models.           
+  2. Pressure regulators.  Indi cate pressure ratings and capacities. 
+The following Specification is found on page 16 of the document. 
+SECTION     22 11 10     FACILITY NATURAL GAS PIPING
+1.05  INFORMATIONAL SUBMITTALS  
+ A. Coordination Drawings:  Plans and details, drawn to scale, on which natural -gas piping is shown and     
+      coordinated with other installations, using input from installers of th e items involved.  
+ B. Welding certificates.  
+ C. Field quality -control reports. 
+The following Specification is found on page 16 of the document. 
+SECTION     22 11 10     FACILITY NATURAL GAS PIPING
+1.06  CLOSEOUT SUBMITTALS  
+ A. Operation and Maintenance Data:  For pressure regulators to include in emergency, operation, and      
+      maintenance  manuals. 
+The following Specification is found on page 17 of the document. 
+SECTION     22 11 19     DOMESTIC WATER PIPING SPECIALTIES  
+ 
+1.03  CLOSEOUT SUBMITTALS  
+ A. Operation and Maintenance Data:  For domestic water piping specialties to include in emergency, operation, 
+      and maintenance manuals.  
+
+The following Specification is found on page 18 of the document. 
+SECTION      22 13 19      SANITARY WASTE PIPING SPECIALTIES  
+
+1.03  ACTION SUBMITTALS:  Product Data  for each type of product indicated.   
+The following Specification is found on page 33 of the document. 
+Check Dwgs1.07  SUBMITTALS  
+  A. Within 14 days after award of contract, and before any of the materials of this section are delivered to the 
+      job site , submit eight complete sets to the Architect in accord with the provisions of Division One - General 
+      Requirements, the following:          
+  1. Shop D rawing Su bmittals.         
+  2. Show variations from contract documents.       
+  3. The contractor s hall not be relieved of responsibility for executing work in accord with contract 
+       documents, even though such drawings have been approved.   
+ B. Affidavits: The contractor shall execute the standard State Electrical Affidavit of Compliance with the     
+      Electrical Code and safe practices.  Notarize and file two copies with the owner before final payment is    
+      made.  
+  C. Record Drawings: Day by day, as installed, details shall be transferred to a set of scale tracings prepared by 
+      the  electrical contractor.  The completed tracings shall be turned over to the Owner upon completion.  
+  
+The following Specification is found on page 38 of the document. 
+Section     26 05 19 
+LOW-VOLTAGE ELECTRICAL  POWER CONDUCTORS AND  CABLES 
+ 
+1.04  SUBMITTALS   
+ A. Submit under provisions of Division One -  General Requirements.  Provide upon request.   
+ B. Product Data:  Provide for each cable assembly type.   
+ C. Test Reports:  Indicate procedures and values obtained.   
+ D. Manufacturer's Installati on Instructions:  Indicate application conditions and limitations of use stipulated by 
+      product testing agency specified under Regulatory Requirements.  
+  E. Contractor shall review and stamp all shop drawings prior to submitting them for review.  Arc hitect  will not 
+      review any submittals that have not been stamped by the contractor.  
+
+The following Specification is found on page 51 of the document. 
+Section     26 05 33.16     BOXES FOR ELECTRICAL SYSTEMS  
+
+1.04  SUBMITTALS   
+ A. Submit under provisions of Division One -  General Requirements if requested.   
+ B. Contractor shall review and stamp all shop drawings prior to submitting them for  review.  Architect will not 
+      review any submittals that have not been reviewed & stamped by the contractor.  
+
+The following Specification is found on page 54 of the document. 
+Section      26 05 33.23     SURFACE RACEWAYS FOR  ELECTRICAL SYSTEMS 
+ 
+1.04  SUBMITTALS   
+ A. Submit under provisions of Division One -  General Requirements.   
+ B. Product Data:  Provide dimensions, knockout sizes and locations, materials, fabrication details, finishes,  
+      and accessories.  
+  C. Manufacturer's Instructions:  Indicate applica tion conditions and limitations of use stipulated by Product 
+      testing agency specified under Regulatory Requirements.  Include instructions for storage, handling,     
+      protection, examination, preparation, and installation of Product.  
+  D. Contr actor shall review and stamp all shop drawings prior to submitting them for review.  Architect  will not 
+      review any submittals that have not been reviewed & stamped by the contractor.  
+
+The following Specification is found on page 56 of the document. 
+
+Section     26 05 53     GROUNDING AND BONDING FOR ELECTRICAL SYSTEMS 
+ 
+
+1.04  SUBMITTALS   
+ A. Submit under provisions of Division One -  General Requirements.   
+ B. Product Data:  Provide catalog data for nameplates, labels, and markers.   
+ C. Manufacturer's Instructions:  Indicate application conditions and limitations of use  stipulated by Product 
+      testing agency specified under regulatory requirements.  Include instructions for storage, handling,     
+      protection, examination, preparation and installation of Product.  
+
+The following Specification is found on page 60 of the document. 
+Section     26 24 16       PANELBOARDS  
+  1.04  SUBMITTALS   
+ A. Submit under provisions of Division One -  General Requirements.   
+ B. Shop Drawings:  Indicate outline and support point dimensions, voltage, main bus  ampacity, integrated short 
+      circuit ampere rating, circuit breaker and fusible switch arrangemen t and sizes.  
+  C. Contractor shall review and stamp all shop drawings prior to submitting them for review.  Architect  will not 
+      review any submittals that have not been stamped by the  contractor.  
+
+The following Specification is found on page 66 of the document. 
+Section     26 27 26-1     WIRING  DEVICES  
+
+1.04  SUBMITTALS FOR REVIEW   
+ A. Submit under provisions of Division One -  General Requirements.   
+ B. Product Data:  Provide manufacturer's catalog information showing dimensions, colors, and configurations.   
+ C. Contractor shall review and stamp all shop drawings prior to submitting them for review.  Architect  will not 
+      review any submittals that have not been stamped by the contractor.  
+
+The following Specification is found on page 66 of the document. 
+Section     26 27 26-1     WIRING  DEVICES  
+
+1.04  SUBMITTALS FOR REVIEW   
+ A. Submit under provisions of Division One -  General Requirements.   
+ B. Product Data:  Provide manufacturer's catalog information showing dimensions, colors, and configurations.   
+ C. Contractor shall review and stamp all shop drawings prior to submitting them for review.  Architect  will not 
+      review any submittals that have not been stamped by the contractor.  
+
+The following Specification is found on page 72 of the document. 
+Section     26 28 16.16        ENCLOSED  SWITCHES  
+
+1.03  SUBMITTALS   
+ A. Submit under provisions of Division One -  General Requirements.   
+ B. Product Data:  Provide switch ratings and enclosure dimensio ns.   
+ C. Manufacturer's Instructions:  Indicate application conditions and limitations of use stipulated by p roduct 
+      testing agency specified under Regulatory Requirements.  Include instructions for storage, handling,     
+      protection, examinatio n, preparation, installation, and starting of Product.   
+ D. Contractor shall review and stamp all shop drawings prior to submitting them for review.  Architect  will not 
+      review any submittals not stamped by the contractor.  
+
+The following Specification is found on page 74 of the document. 
+Section     26 05 26     INTERIOR  LIGHTING, FANS, & ACCESSORIES  
+ 1.04  SUBMITTALS  
+  A. Submit under provisions of Division One -  General Requirements.  
+  B. Shop Drawings:  Indicate dimensions and components for each luminaire that is not a standard product  of 
+      the manufacturer.  
+  C. Product Data:  Provide dimensions, ratings, and performance data.  
+  D. Manufacturer's Instructions:  Indicate application conditions and limitations of use stipulated by product 
+      testing agency specified under Regulatory Requirements.  
+  E. Manufacturer's Instructions:  Include instructions for storage, handling, protection, E xamination,     
+      preparation, and installation of product.  
+  F. Contractor shall review and stamp all  shop drawings prior to submitting them for review.  Architect  will not 
+      review any submittals that have not been reviewed & stamped by the contractor.  
+The following Specification is found on page 82 of the document. 
+Check Dwgs1.06  SUBMITTALS  
+  A. Submit under provisions of Division One -  General Requirements.  
+  B. Shop Drawings:  Provide riser drawing, battery calculations and equipment cut sheets.  
+  C. Product Data:  Provide electrical characteristics and connection requirements.   
+ D. Test R eports:  Indicate satisfactory completion of required tests and inspections.  
+  E. Manufacturer's Installation Instructions:  Indicate application conditions and limitations of use stipulated by 
+     product testing agency.  Include instructions for storag e, handling, protection, examination, preparation, 
+     installation, and starting of products.  
